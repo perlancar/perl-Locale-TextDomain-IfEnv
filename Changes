@@ -1,10 +1,3 @@
-0.020   2019-12-26  Released-By: PERLANCAR; Urgency: low
-
-	- Remove 5.10 requirement.
-
-	- [doc] Mention Locale::TextDomain::UTF8::IfEnv.
-
-
-0.01     2013-12-13  Released-By: SHARYANTO
+0.001    2019-12-26  Released-By: PERLANCAR
 
          - First release.
