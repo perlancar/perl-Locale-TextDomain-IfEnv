@@ -66,6 +66,6 @@ L<Locale::TextDomain>
 
 L<Locale::TextDomain::UTF8::IfEnv>
 
-L<Bencher::Scenario::LocaleTextDomainIfEnv>
+L<Bencher::Scenarios::LocaleTextDomainIfEnv>
 
 =cut
